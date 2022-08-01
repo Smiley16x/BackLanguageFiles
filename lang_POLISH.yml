@@ -1,0 +1,15 @@
+messages:
+  death:
+    noPoint: '&cNie znaleziono ostatniej lokalizacji śmierci gracza!'
+    teleportToLastDeathLocation: '&5Zostaleś teleportowany do ostatniej pozycji śmierci!'
+    onDeathMessages:
+    - '&Zginąłeś!'
+    - '&bTwoje ostatnie kordynaty śmierci to: %x% %y% %z% '
+  teleport:
+    noPoint: '&cNie znaleziono ostatnich kordynatow gracza!'
+    teleportToLastTeleportLocation: '&5Zostaleś teleportowany do ostatniej pozycji!'
+    onTeleportMessages:
+    - '&6Zostałeś teleportowany!'
+    - '&bTwoje ostatnie kordynaty to: %x% %y% %z%'
+  fail:
+    noPermission: '&6Nie masz uprawnień do używania tej komendy!'

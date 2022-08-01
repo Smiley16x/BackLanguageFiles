@@ -1,0 +1,15 @@
+messages:
+  death:
+    noPoint: '&cDu hast keine Todesposition!'
+    teleportToLastDeathLocation: '&5Du wurdest zu deinem Todespunkt teleportiert!'
+    onDeathMessages:
+    - '&6Du bist gestorben!'
+    - '&bDeine Todeskoordinaten sind: %x% %y% %z% '
+  teleport:
+    noPoint: '&cDu hast noch keinen letzten teleportationspunkt!'
+    teleportToLastTeleportLocation: '&5Du wurdest zurückteleportiert!'
+    onTeleportMessages:
+    - '&6Du hast dich teleportiert!'
+    - '&bDeine letzten Koordinaten waren: %x% %y% %z%'
+  fail:
+    noPermission: '&6Du darfst diesen Befehl nicht verwenden!'

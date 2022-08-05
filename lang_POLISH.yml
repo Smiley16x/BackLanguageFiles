@@ -3,7 +3,7 @@ messages:
     noPoint: '&cNie znaleziono ostatniej lokalizacji śmierci gracza!'
     teleportToLastDeathLocation: '&5Zostaleś teleportowany do ostatniej pozycji śmierci!'
     onDeathMessages:
-    - '&Zginąłeś!'
+    - '&cZginąłeś!'
     - '&bTwoje ostatnie kordynaty śmierci to: %x% %y% %z% '
   teleport:
     noPoint: '&cNie znaleziono ostatnich kordynatow gracza!'
